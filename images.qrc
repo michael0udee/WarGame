@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/title2.PNG</file>
+        <file>images/background.png</file>
+        <file>images/player.png</file>
+        <file>images/fireBall.png</file>
+        <file>images/music_off.png</file>
+        <file>images/music_on.png</file>
+        <file>images/soldier.gif</file>
+        <file>images/nazi_tank.png</file>
+        <file>images/nazi_tank_dead.png</file>
+        <file>images/deadSoldier.png</file>
+        <file>images/tower.png</file>
+        <file>images/junkers.png</file>
+        <file>images/bomb.png</file>
+        <file>images/molotov-cocktail.png</file>
+        <file>images/junkers_dead.png</file>
+        <file>images/tree.png</file>
+        <file>images/rock.png</file>
+        <file>images/bullet.png</file>
+        <file>images/ppsz_gun.gif</file>
+        <file>images/grenade.png</file>
+        <file>images/soldier.png</file>
+        <file>images/grenadeBoom.png</file>
+        <file>images/mCocktailBoom.png</file>
+    </qresource>
+</RCC>

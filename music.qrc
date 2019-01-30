@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>music/background_music.mp3</file>
+        <file>music/molotovCocktail.wav</file>
+        <file>music/junkers.wav</file>
+        <file>music/PPSzBullet.wav</file>
+        <file>music/grenade.wav</file>
+    </qresource>
+</RCC>
